@@ -80,18 +80,16 @@ The project uses the **Boston Housing Dataset** (available in Scikit-learn) with
 
 - **Mean Squared Error (MSE)**: A metric for how far the predicted house prices are from the actual values.
 - **R-squared (R²)**: A measure of how well the model explains the variance in the house prices.
-Model Evaluation:
-Mean Squared Error (MSE): 46.176936738355245
-R-squared (R²): 0.3703183614923722
+
 
 ## OUTPUT:
--**Model Evaluation:**
--**Mean Squared Error (MSE): 46.176936738355245**
-**R-squared (R²): 0.3703183614923722**
+## Model Evaluation:
+## **Mean Squared Error (MSE): 46.176936738355245**
+## **R-squared (R²): 0.3703183614923722**
 
-**Model Coefficients:**
-**Intercept: -36.28556028565263**
-**Coefficient for 'rm': 9.353307193414203**
-**Predicted Median Home Value for 6.5 rooms: $24510.94**
+## **Model Coefficients:**
+## **Intercept: -36.28556028565263**
+## **Coefficient for 'rm': 9.353307193414203**
+## **Predicted Median Home Value for 6.5 rooms: $24510.94**
 
 ​
