@@ -1,5 +1,14 @@
 # CODTECH-task-2
-# House Price Prediction using Linear Regression
+## **NAME:Rekha D**
+## **Company:CODTECH IT SOLUTIONS**
+## **ID:CTO8DS9846**
+## **Domain:DATA ANALYTICS**
+## **Duration:10th Nov 2024 to 10th Dec 2024**
+## **Mentor name:  **
+
+## **OVERVIEW OF THE PROJECT**
+
+  ### Task 1: House Price Prediction using Linear Regression
 
 ## **Objective**:
 
