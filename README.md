@@ -8,7 +8,7 @@
 
 ## **OVERVIEW OF THE PROJECT**
 
-  ### Task 1: House Price Prediction using Linear Regression
+  ### Task 2: House Price Prediction using Linear Regression
 
 ## **Objective**:
 
