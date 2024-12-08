@@ -85,8 +85,8 @@ Mean Squared Error (MSE): 46.176936738355245
 R-squared (R²): 0.3703183614923722
 
 ## OUTPUT:
-**Model Evaluation:**
-**Mean Squared Error (MSE): 46.176936738355245**
+-**Model Evaluation:**
+-**Mean Squared Error (MSE): 46.176936738355245**
 **R-squared (R²): 0.3703183614923722**
 
 **Model Coefficients:**
